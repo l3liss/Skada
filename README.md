@@ -32,20 +32,3 @@ different views.
 You can also use window buttons for selecting fight segment and mode directly.
 
 Scrolling in Skada is done with the mousewheel.
-
-## Plugins
-
-Skada is very easy to extend, and there are many extra plugin addons out there
-that add functionality, such as:
-
-- [Skada Graphs](https://www.curseforge.com/wow/addons/skada-graphs): Adds graph display systems to Skada
-- [Skada DPSplusHPS](https://www.curseforge.com/wow/addons/dps-plus-hps): Useful add-on for Disc Priests.
-- [Skada Chat Frame Integrator](https://www.wowinterface.com/downloads/info23287-SkadaChatFrameIntegrator.html): Integrates Skada in any chat frame.
-- [SkadaScroll](https://www.curseforge.com/wow/addons/skadascroll): Provides additional options for scrolling the bar displays
-- [Skada Avoidance and Mitigation](https://www.curseforge.com/wow/addons/skadaavoidancemitigation): Helps tanks benchmark their damage reduction performance via avoidance and mitigation
-- [Skada for Tanks](https://wow.curseforge.com/addons/skada-for-tanks/): Adds information useful for evaluating a tank's performance
-- [Guild Skada High Score](https://www.curseforge.com/wow/addons/guild-skada-high-score): Let's you compare a guild's performance.
-- [Skada_FriendlyFire](https://www.curseforge.com/wow/addons/skada_friendlyfire): Display friendly fire damage done by players
-- [Skada Player Score](https://www.curseforge.com/wow/addons/skada-player-score): Generate combined performance scores for players.
-
-There is a page with [API information here](https://www.wowace.com/projects/skada/pages/API).
